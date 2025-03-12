@@ -87,16 +87,6 @@ invalid_actions: List of invalid actions (if any).
 
 
 
-
-
-
-
-
-
-
-
-
-
 For filter.py
 
 Overview
